@@ -28,3 +28,6 @@ A Main window-style application: `main_window.py` [branch](https://github.com/jf
 
 ## part 8:
 A simple application with signal slots: `signals_slots.py` [branch](https://github.com/jfunez/pyqt-calc/tree/part8)
+
+## part 9:
+A complete calculator: `pycalc.py` [branch](https://github.com/jfunez/pyqt-calc/tree/part9)
