@@ -8,3 +8,5 @@ training exercise making a simple calc with pyqt
 ## part 1:
 Hello world app: `hello.py`
 
+## part 2:
+Horizontal layout manager: `h_layout.py`
