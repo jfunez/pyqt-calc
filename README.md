@@ -10,3 +10,6 @@ Hello world app: `hello.py` [branch](https://github.com/jfunez/pyqt-calc/tree/pa
 
 ## part 2:
 Horizontal layout manager: `h_layout.py` [branch](https://github.com/jfunez/pyqt-calc/tree/part2)
+
+## part 3:
+Vertical layout manager: `v_layout.py` [branch](https://github.com/jfunez/pyqt-calc/tree/part3)
