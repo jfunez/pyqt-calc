@@ -19,3 +19,6 @@ Grid layout manager: `g_layout.py` [branch](https://github.com/jfunez/pyqt-calc/
 
 ## part 5:
 Form layout manager: `f_layout.py` [branch](https://github.com/jfunez/pyqt-calc/tree/part5)
+
+## part 6:
+A Dialog-Style application: `dialog.py` [branch](https://github.com/jfunez/pyqt-calc/tree/part6)
