@@ -25,3 +25,6 @@ A Dialog-Style application: `dialog.py` [branch](https://github.com/jfunez/pyqt-
 
 ## part 7:
 A Main window-style application: `main_window.py` [branch](https://github.com/jfunez/pyqt-calc/tree/part7)
+
+## part 8:
+A simple application with signal slots: `signals_slots.py` [branch](https://github.com/jfunez/pyqt-calc/tree/part8)
