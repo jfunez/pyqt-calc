@@ -15,4 +15,7 @@ Horizontal layout manager: `h_layout.py` [branch](https://github.com/jfunez/pyqt
 Vertical layout manager: `v_layout.py` [branch](https://github.com/jfunez/pyqt-calc/tree/part3)
 
 ## part 4:
-Grid layout manager: `v_layout.py` [branch](https://github.com/jfunez/pyqt-calc/tree/part4)
+Grid layout manager: `g_layout.py` [branch](https://github.com/jfunez/pyqt-calc/tree/part4)
+
+## part 5:
+Form layout manager: `f_layout.py` [branch](https://github.com/jfunez/pyqt-calc/tree/part5)
