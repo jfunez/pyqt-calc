@@ -22,3 +22,6 @@ Form layout manager: `f_layout.py` [branch](https://github.com/jfunez/pyqt-calc/
 
 ## part 6:
 A Dialog-Style application: `dialog.py` [branch](https://github.com/jfunez/pyqt-calc/tree/part6)
+
+## part 7:
+A Main window-style application: `main_window.py` [branch](https://github.com/jfunez/pyqt-calc/tree/part7)
